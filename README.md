@@ -1,4 +1,4 @@
-**Please put your [Matrix](https://element.io) ID somewhere in your Microsoft™ Github™ profile.**  
+### Please put your [Matrix](https://element.io) ID somewhere in your Microsoft™ Github™ profile.  
 Because if someone wants to contact you to talk about e.g. issues, PRs, translation, other contributions, they might want to use Matrix.  
 Especially, if you check your Matrix account more often than your e-mail account.
 
