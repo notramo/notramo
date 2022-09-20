@@ -1,6 +1,4 @@
-### Please put your [Matrix](https://element.io) ID somewhere in your Microsoft™ Github™ profile.  
-Because if someone wants to contact you to talk about e.g. issues, PRs, translation, other contributions, they might want to use Matrix.  
-Especially, if you check your Matrix account more often than your e-mail account.
+I edit a knowledge base about FLOSS in Hungarian language at https://informatika-kezdoknek.netlify.app/
 
 
 **Tip:** If you don't want to get spam to your e-mail address, you can configure your Matrix ID in the Git config. (Works with the [Pijul](https://pijul.org) version control system too.)
@@ -9,9 +7,9 @@ Especially, if you check your Matrix account more often than your e-mail account
 git config --global user.email @notramo:grin.hu
 ```
 
-**Magyar Linux rajongóknak:**  
+**Magyarul beszélő Linux felhasználóknak:**  
 Nézzetek szét Matrixon a grin.hu szerver szobalistájában!  
-**For Hungarian Linux fans:**  
+**For Hungarian speaking Linux users:**  
 Take a look at the room directory of the grin.hu Matrix server.  
 
 See the repositories starred by me for some really cool stuff.
